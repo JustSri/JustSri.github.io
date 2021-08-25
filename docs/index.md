@@ -10,7 +10,9 @@ Then in about 2008, I moved to Hyderabad and stayed there for 10 years. In that 
 
 #### Interests in Computer Science
 
-I can't say I've explored my interests in the field of Computer Science enough beyond the assigned coursework to be able to answer this with any given certainty (I don't have any notable projects or achievements to show), but the thing that I find most fascinating about Computer Science and the thing I would ideally like to pursue when I grow up is basically the endless ability of Computer Science to take a mathematical or otherwise problem from any other field (for instance Physics, Biology, Economics, etc) , and offer a model up to a computer; whose computing ability, efficiency and sheer potential can simulate anything quite effectively, and give us insight and solutions into said problem. That's the sort of thing I would like to pursue as a Computer Scientist.
+I can't say I've explored my interests in the field of Computer Science enough beyond the assigned coursework to be able to answer this with any given certainty (I don't have any notable projects or achievements to show).
+
+But the thing that I find most fascinating about Computer Science, and the thing I would ideally like to pursue when I get into the industry, is basically the ever evolving ability of Computer Science to take a mathematical or otherwise problem from any other field (for instance Physics, Biology, Economics, etc) , and offer a model up to a computer, which then proceeds to solve it effectively. That's something I wish to keep in mind going forward.
 
 #### Hobbies
 
@@ -29,3 +31,9 @@ This coincides with my (albeit heavily writer's block addled) hobby of just writ
 #### Blog
 
 [My Blog](https://justsrilikesmedia.wordpress.com/)
+
+#### Connections
+
+[Github](https://github.com/JustSri)
+
+
